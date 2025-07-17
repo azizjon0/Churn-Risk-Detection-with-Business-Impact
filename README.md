@@ -53,7 +53,7 @@ This project predicts the probability of churn using customer features (e.g., co
 1. Clone the repo  
 2. Install dependencies  
 3. Run the notebook
-   telco_customer_churn
+   'telco_customer_churn.ipynb
 
 
 ---
