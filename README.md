@@ -1,4 +1,6 @@
-# 📉 Customer Churn Prediction with Logistic Regression
+# Churn Risk Detection with Business Impact
+
+![](images/Main.png)
 
 This project aims to identify customers who are likely to **churn** (leave the company) and estimate the **potential business impact** using machine learning and financial metrics such as **LTV** (Customer Lifetime Value).
 
