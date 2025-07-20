@@ -15,8 +15,8 @@ This project predicts the probability of churn using customer features (e.g., co
 
 ## Spoilers
 
-![](images1/Main1.png)
-![](images2/Main2.png)
+![](images/Main1.png)
+![](images/Main2.png)
 
 ## 🛠️ Methodology
 
