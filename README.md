@@ -13,6 +13,11 @@ This project predicts the probability of churn using customer features (e.g., co
 
 ---
 
+## Spoilers
+
+![](images1/Main.png)
+![](images2/Main.png)
+
 ## 🛠️ Methodology
 
 - ✅ **Model**: Logistic Regression  
@@ -44,7 +49,6 @@ This project predicts the probability of churn using customer features (e.g., co
 
 ├── data/ # Input datasets
 ├── notebooks/ # Jupyter notebooks with EDA & modeling
-├── outputs/ # Plots and results
 └── README.md # Project overview
 
 
