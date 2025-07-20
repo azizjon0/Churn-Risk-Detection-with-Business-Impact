@@ -70,7 +70,9 @@ This project predicts the probability of churn using customer features (e.g., co
 
 ## 👤 Author
 
-**Your Name**  
+**Achilov Azizjon**  
 Machine Learning & Data Science Enthusiast  
-[LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/azizjon-achilov-369941291/) | [GitHub]([ttps://github.com](https://github.com/azizjon0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/azizjon-achilov-369941291/)
+[![GitHub](https://img.shields.io/badge/GitHub-azizjon0-black)](https://github.com/azizjon0)
+
 
